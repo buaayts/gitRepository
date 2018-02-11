@@ -6,3 +6,4 @@ my boss is handsome
 try GUI
 create new branch is simple and quick.
 Switched to a new branch 'dev'
+stash...
