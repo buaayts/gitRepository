@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 git tracks modify of files
 my boss is handsome
 try GUI
-create new branch is quick && simple.
+create new branch is simple and quick.
+
